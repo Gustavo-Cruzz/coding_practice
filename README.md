@@ -1,6 +1,8 @@
 # coding_practice
-A Repo with various coding experiences I had
+Coding practice problems from Advent of Code 2022, Beecrowd and my Computer Engeneering undergrad
 
-Currently, branches main and Advent of Code are available. Advent_of_code has some of my practice on 2022 challenges from the event in both python and C++
+Beecrowd's challenges are found in OBI folde, which stands for "Olímpiada Brasileira de Informática", a nation-wide coding challenge held annually in Brazil.
 
-I will soon be adding a branch for C++ specific practices and another for Rust
+Most of the Undergrad activities will be in Data Structures folder, but it might change once tasks get more complex and other kinds of challenges start coming by.
+
+Plans for this repo include more Python and Rust code on various tasks, and also Mysql
