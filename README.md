@@ -1,5 +1,5 @@
 # coding_practice
-Coding practice problems from Advent of Code 2022, Beecrowd and my Computer Engeneering undergrad
+Coding practice problems from Advent of Code 2022, Beecrowd and my Computer Engeneering undergraduation
 
 Beecrowd's challenges are found in OBI folde, which stands for "Olímpiada Brasileira de Informática", a nation-wide coding challenge held annually in Brazil.
 
